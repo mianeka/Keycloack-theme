@@ -29,7 +29,7 @@ export const WithLinkBack: Story = {
     render: () => (
         <KcPageStory
             kcContext={{
-                messageHeader: "Message header",
+                messageHeader: "Message header1",
                 message: {
                     summary: "Server message"
                 },
